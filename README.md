@@ -48,4 +48,6 @@ A screenshot of the working website.
 
 ## Features
 
-My project features a better name than my peers.
+[link to live website](https://kylecosaert.github.io/schedule-organizer/)
+
+[link to repo](https://github.com/KyleCosaert/schedule-organizer.git)
